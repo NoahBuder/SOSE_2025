@@ -5,3 +5,4 @@ if __name__ == "__main__":
     experiment = my_functions.build_experiment("Test","21.03.2025", "Alex", "running")
     print(person)
     print(experiment)
+    #testr
